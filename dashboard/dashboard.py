@@ -13,7 +13,7 @@ def load_data():
     return pd.read_csv('all_data.csv')
 
 
-# Load the dataset
+# Load the data
 all_data = load_data()
 
 # Display the raw data (optional, if you want to show the dataframe)
